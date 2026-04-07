@@ -19,7 +19,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "22896275402",
       "required": true
     },
     "MODE": {
@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "",
+      "value": "Ovl-MD_G9bgDd52_SESSION-ID",
       "required": true
     },
     "STICKER_PACK_NAME": {
